@@ -102,4 +102,4 @@ generation while there is an http.Handler that can do this upon page refresh, yo
 via `go generate`. There are many small decisions in Vugu which follow this philosophy: wherever reasonably possible,
 just use the existing mechanism instead of inventing anew.  And keep doing that until there's proof that something
 else is really needed.  So far it's been working well.  And it allows Vugu to focus on the specific things it 
-brings to the table.
+brings to the table.sfdbvdsff
